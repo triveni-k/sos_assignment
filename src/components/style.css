@@ -1,0 +1,9 @@
+.search-input {
+  border: solid 1px;
+  box-shadow: none;
+  margin-bottom: 1rem;
+}
+
+.search-column {
+  max-width: 450px !important;;
+}
